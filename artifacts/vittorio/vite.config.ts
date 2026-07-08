@@ -5,26 +5,24 @@ import { defineConfig } from 'vite';
 
 import runtimeErrorOverlay from '@replit/vite-plugin-runtime-error-modal';
 
+const isProduction = process.env.NODE_ENV === 'production';
+
+// PORT and BASE_PATH are only required at runtime (dev server / preview).
+// During a static production build (Vercel, Netlify, CI) they are not needed.
 const rawPort = process.env.PORT;
+const port = rawPort ? Number(rawPort) : 3000;
 
-if (!rawPort) {
-  throw new Error(
-    'PORT environment variable is required but was not provided.',
-  );
+if (!isProduction && !rawPort) {
+  throw new Error('PORT environment variable is required but was not provided.');
 }
-
-const port = Number(rawPort);
-
-if (Number.isNaN(port) || port <= 0) {
+if (!isProduction && (Number.isNaN(port) || port <= 0)) {
   throw new Error(`Invalid PORT value: "${rawPort}"`);
 }
 
-const basePath = process.env.BASE_PATH;
+const basePath = process.env.BASE_PATH ?? '/';
 
-if (!basePath) {
-  throw new Error(
-    'BASE_PATH environment variable is required but was not provided.',
-  );
+if (!isProduction && !process.env.BASE_PATH) {
+  throw new Error('BASE_PATH environment variable is required but was not provided.');
 }
 
 export default defineConfig({
