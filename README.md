@@ -309,35 +309,6 @@ Escritório de advocacia empresarial especializado em Direito Corporativo, M&A, 
 
 ---
 
-## 🖼️ Screenshots
-
-> Add your project screenshots inside a `/screenshots` folder.
-
-```md
-![Hero](screenshots/hero.png)
-![Practice Areas](screenshots/practice-areas.png)
-![Results](screenshots/results.png)
-![Philosophy](screenshots/philosophy.png)
-![Partners](screenshots/partners.png)
-![Contact](screenshots/contact.png)
-![Mobile](screenshots/mobile.png)
-```
-
-### Recommended structure
-
-```txt
-screenshots/
-├── hero.png
-├── practice-areas.png
-├── results.png
-├── philosophy.png
-├── partners.png
-├── contact.png
-└── mobile.png
-```
-
----
-
 ## 🚀 Live Demo
 
 **Project link:**  
