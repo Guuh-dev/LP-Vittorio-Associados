@@ -1,6 +1,6 @@
 {
   "buildCommand": "pnpm --filter @workspace/vittorio run build",
-  "outputDirectory": "artifacts/vittorio/dist/public",
+  "outputDirectory": "dist",
   "installCommand": "pnpm install --frozen-lockfile",
   "framework": null
 }
