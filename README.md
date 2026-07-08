@@ -1,117 +1,124 @@
 <div align="center">
 
-# Vittorio & Associados
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A0A0A,45:1C1A17,100:C9A961&text=Vittorio%20%26%20Associados&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Ultra-premium%20corporate%20law%20firm%20landing%20page&descAlignY=58&descSize=16&animation=fadeIn" />
 
-### Ultra-premium corporate law firm landing page
+<br />
 
-<p>
-  <strong>Corporate Law • M&A • Strategic Litigation • Compliance • Arbitration</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=1300&color=C9A961&center=true&vCenter=true&width=900&lines=Corporate+Law+Landing+Page;M%26A+%E2%80%A2+Business+Law+%E2%80%A2+Strategic+Litigation;Luxury+Editorial+Web+Design;Built+for+Trust%2C+Authority+and+High-Ticket+Positioning" />
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Completed-c9a961?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design-Luxury%20Editorial-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Market-Corporate%20Law-0a0a0a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Portuguese%20BR-c9a961?style=for-the-badge" />
-</p>
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Status-Completed-C9A961?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Category-Landing%20Page-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Design-Ultra%20Premium-C9A961?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Language-Portuguese%20BR-111111?style=for-the-badge" />
 
 </div>
 
 ---
 
-## Overview
+## ⚖️ Project Overview
 
-**Vittorio & Associados** is an ultra-premium landing page concept created for a high-end Brazilian corporate law firm specializing in business law, mergers and acquisitions, strategic litigation, compliance, tax law and arbitration.
+**Vittorio & Associados** is an ultra-premium landing page concept created for a high-end Brazilian corporate law firm specializing in **Business Law**, **M&A**, **Strategic Litigation**, **Compliance**, **Tax Law** and **Arbitration**.
 
-The project was designed to communicate:
+The goal of this project is to communicate:
 
-- Prestige
 - Authority
 - Trust
+- Exclusivity
 - Legal excellence
 - High-ticket positioning
-- Corporate sophistication
+- Quiet luxury through design
 
-The visual goal was to make the firm feel expensive, discreet and highly credible from the first screen.
+This landing page was designed to feel like the website of a firm that handles complex enterprise-level legal cases and high-value business decisions.
 
-This is not a generic SaaS-style landing page.  
-The design direction follows an editorial luxury approach, combining the confidence of a corporate law firm with the refined digital presence of a premium brand.
-
----
-
-## Design Direction
-
-The visual identity was built around a premium and understated concept.
-
-### Core Principles
-
-- Luxury without visual noise
-- Authority without exaggeration
-- Strong typography hierarchy
-- Deep dark background
-- Champagne gold accents
-- Generous whitespace
-- Editorial composition
-- Smooth and deliberate animations
-- Glassmorphism used with restraint
-- Corporate trust and high-value perception
+> The visual goal: make visitors feel that this firm operates at a premium level before they even read the full content.
 
 ---
 
-## Color Palette
+## 🖤 Design Direction
 
-| Color | Purpose | Hex |
+The design intentionally avoids the typical startup or SaaS landing page style.
+
+Instead, it follows a more refined direction inspired by:
+
+- Corporate law firms
+- Luxury editorial websites
+- Premium fashion brand digital experiences
+- High-end consulting firms
+- Minimalist institutional branding
+
+### Visual Identity
+
+| Element | Direction |
+|---|---|
+| Background | Deep charcoal / near-black |
+| Accent | Champagne gold / muted brass |
+| Typography | Serif headlines + clean sans-serif body |
+| Layout | Spacious, editorial and elegant |
+| Motion | Slow, confident and deliberate |
+| UI Style | Glassmorphism, thin dividers and soft glow |
+| Tone | Expensive, trustworthy and understated |
+
+---
+
+## 🎨 Color Palette
+
+| Color | Usage | Hex |
 |---|---|---|
-| Deep Charcoal | Main background | `#0a0a0a` |
-| Champagne Gold | Primary accent | `#c9a961` |
-| Muted Brass | Secondary accent | `#a98b4f` |
-| Soft White | Main text | `#f5f1e8` |
-| Warm Gray | Secondary text | `#a6a09a` |
-| Glass Dark | Cards and overlays | `rgba(255,255,255,0.04)` |
+| Deep Charcoal | Main background | `#0A0A0A` |
+| Soft Black | Section background | `#111111` |
+| Champagne Gold | Primary accent | `#C9A961` |
+| Muted Brass | Secondary accent | `#A98B4F` |
+| Soft White | Main text | `#F5F1E8` |
+| Warm Gray | Supporting text | `#A6A09A` |
+| Glass Surface | Cards and overlays | `rgba(255, 255, 255, 0.04)` |
 
 ---
 
-## Main Sections
+## ✨ Key Features
 
-### 1. Loading Screen
+### 🕯️ Branded Loading Screen
 
-A branded loading experience designed to feel premium and intentional.
+A custom loading experience built to feel premium and cinematic.
 
 Includes:
 
-- Firm initial animation
+- Firm initial/logo animation
 - Gold line sweep
-- Smooth reveal transition
-- Short 1.5 to 2 second duration
-- Elegant motion before the page appears
+- Smooth curtain reveal
+- Elegant timing
+- Luxury brand feeling without being slow
 
 ---
 
-### 2. Hero Section
+### 🏛️ Hero Section
 
-A full viewport hero section created to immediately establish authority.
+A full viewport hero section designed to create immediate impact.
 
 Includes:
 
 - Large serif headline
-- Subtle staggered text animation
-- Dark luxury background
-- Gold accent details
-- Glassmorphism call-to-action button
-- Smooth scroll indicator
-- Premium corporate tone
+- Staggered text reveal animation
+- Dark animated background
+- Subtle gold details
+- Glassmorphism CTA button
+- Scroll indicator animation
 
-Main headline:
+Main headline concept:
 
-> Excelência Jurídica para Decisões que Definem o Futuro do Seu Negócio
+```txt
+Excelência Jurídica para Decisões que Definem o Futuro do Seu Negócio
+```
 
 ---
 
-### 3. Practice Areas
+### ⚖️ Practice Areas
 
-A premium grid of legal service cards.
+Glassmorphism cards presenting the firm's legal expertise.
 
-Practice areas included:
+Areas included:
 
 - Direito Empresarial
 - M&A
@@ -125,85 +132,85 @@ Each card includes:
 - Icon
 - Title
 - Short description
-- Glassmorphism effect
+- Translucent glass effect
 - Subtle border glow
-- Hover lift animation
+- Hover lift interaction
 - Scroll reveal animation
 
 ---
 
-### 4. Results and Credibility
+### 📊 Results & Credibility
 
-A credibility section with animated counters to reinforce authority.
+A premium statistics section using animated counters.
 
 Example metrics:
 
-- `R$ 2.3 Bi` in advised transactions
-- `180+` companies served
-- `97%` success rate in strategic litigation
-- `25` years of experience
+| Metric | Description |
+|---|---|
+| `R$ 2.3 Bi` | Em transações assessoradas |
+| `180+` | Empresas atendidas |
+| `97%` | Taxa de êxito em contencioso |
+| `25` | Anos de atuação |
 
-The section was designed to be clean, quiet and powerful.
+The numbers are designed to feel powerful without looking exaggerated.
 
 ---
 
-### 5. Philosophy Section
+### 🧠 Philosophy Section
 
-An editorial split-layout section presenting the firm's positioning and values.
-
-Includes:
+An editorial split-layout section combining:
 
 - Large pull quote
-- Institutional philosophy text
-- Subtle parallax background detail
-- Elegant spacing
-- Serious and confident writing style
+- Institutional positioning
+- Firm philosophy
+- Subtle parallax background element
+- Luxury whitespace and visual rhythm
 
 ---
 
-### 6. Partners Section
+### 👥 Partners Section
 
-An elegant team section for senior legal partners.
+Elegant partner cards with a premium legal profile style.
 
 Includes:
 
-- Partner cards
-- Grayscale images
-- Color transition on hover
+- Partner image area
+- Grayscale to color hover effect
 - Name
-- Role
+- Title
 - Specialty area
+- Minimal, executive layout
 
 ---
 
-### 7. Testimonials
+### 💬 Testimonials
 
-Corporate-style testimonials using anonymized executive quotes.
+Corporate testimonials with anonymized executive quotes.
 
-Examples:
+Example client profiles:
 
-- CEO of an industrial company
-- Legal director of a national group
-- Founder of a technology company
+- CEO de empresa do setor industrial
+- Diretora jurídica de grupo empresarial
+- Sócio fundador de empresa de tecnologia
+- Conselho administrativo de companhia nacional
 
-The tone is discreet, professional and enterprise-focused.
+The tone is discreet, serious and credible.
 
 ---
 
-### 8. Contact Section
+### 📩 Contact CTA
 
-A premium contact and consultation section.
+A high-end contact section designed for qualified leads.
 
 Includes:
 
-- Dark framed layout
-- Gold accent border
-- Glassmorphism form styling
+- Gold accent frame
+- Glassmorphism form
 - Floating labels
-- Smooth focus animations
-- Submit button with loading state
+- Smooth focus states
+- Subtle submit loading animation
 
-Form fields:
+Fields:
 
 - Nome
 - Empresa
@@ -212,62 +219,63 @@ Form fields:
 
 ---
 
-### 9. Footer
+### 🧾 Footer
 
-A minimal footer designed to close the experience with elegance.
-
-Includes:
+Minimal and elegant footer with:
 
 - Firm information
 - Contact details
 - Social links
-- Subtle hover effects
-- Clean final brand impression
+- Thin dividers
+- Subtle hover animations
 
 ---
 
-## Features
+## 🛠️ Tech Stack
 
-- Premium branded loading screen
-- Fullscreen luxury hero section
-- Editorial-style layout
-- Glassmorphism practice area cards
-- Animated counters
-- Scroll-triggered reveal animations
-- Partner cards with hover transitions
-- Testimonial section
-- Premium contact form
-- Responsive mobile-first layout
-- SEO-friendly structure
-- Performance-focused animation approach
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,vercel,git,github,vscode" />
 
-## Tech Stack
+<br />
+<br />
 
-<p>
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+<img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+
+</div>
 
 ---
 
-## Performance Goals
+## 📱 Responsive Design
 
-The project was planned with performance and smooth interaction in mind.
+The page was designed with a responsive structure while keeping the desktop experience as the premium flagship version.
 
-Focus areas:
+| Breakpoint | Target |
+|---|---|
+| Mobile | `375px` |
+| Tablet | `768px` |
+| Desktop | `1440px+` |
 
-- Lazy loading for heavy assets
-- GPU-friendly animations
-- Transform and opacity-based motion
+On mobile, animations are reduced for performance while preserving the premium visual identity.
+
+---
+
+## ⚡ Performance Focus
+
+The project was designed with performance and smoothness in mind.
+
+Performance considerations:
+
+- Lazy loading for heavy elements
+- Scroll-triggered animations
+- GPU-friendly transforms
+- Opacity-based animations
 - Reduced layout shift
-- Responsive image handling
-- Clean component structure
+- Optimized visual effects
 - Mobile animation simplification
 - Semantic HTML structure
 
@@ -275,28 +283,25 @@ Target Lighthouse goals:
 
 | Category | Goal |
 |---|---|
-| Performance | 90+ |
-| Accessibility | 90+ |
-| Best Practices | 90+ |
-| SEO | 90+ |
+| Performance | `90+` |
+| Accessibility | `90+` |
+| Best Practices | `90+` |
+| SEO | `90+` |
 
 ---
 
-## SEO Structure
+## 🔎 SEO Structure
 
-The page was structured to support professional search visibility.
+SEO considerations included:
 
-SEO considerations:
-
-- Semantic HTML5 structure
+- Semantic HTML5 sections
 - Proper heading hierarchy
 - Meta title
 - Meta description
-- Open Graph-ready content
-- Alt text support
+- Open Graph structure
+- Alt text for images
 - Legal service positioning
-- Corporate law keywords
-- Brazilian Portuguese content
+- Brazilian Portuguese legal terminology
 
 Suggested meta title:
 
@@ -312,56 +317,84 @@ Escritório de advocacia empresarial especializado em Direito Corporativo, M&A, 
 
 ---
 
-## Responsive Design
-
-The layout was designed mobile-first, while keeping the desktop experience as the flagship version.
-
-Tested breakpoints:
-
-| Device | Width |
-|---|---|
-| Mobile | 375px |
-| Tablet | 768px |
-| Desktop | 1440px+ |
-
-On mobile, animations are simplified to preserve performance while keeping the premium visual identity.
-
----
-
-## Project Structure
+## 🧩 Page Structure
 
 ```txt
-src/
-├── components/
-│   ├── LoadingScreen.tsx
-│   ├── Navbar.tsx
-│   ├── Hero.tsx
-│   ├── PracticeAreas.tsx
-│   ├── Results.tsx
-│   ├── Philosophy.tsx
-│   ├── Partners.tsx
-│   ├── Testimonials.tsx
-│   ├── Contact.tsx
-│   └── Footer.tsx
-├── App.tsx
-├── main.tsx
-└── index.css
+1. Loading Screen
+2. Hero Section
+3. Practice Areas
+4. Results & Credibility
+5. About & Philosophy
+6. Partners
+7. Testimonials
+8. Contact CTA
+9. Footer
 ```
 
 ---
 
-## Installation
+## 🖼️ Screenshots
+
+Screenshots can be added later inside a folder named:
+
+```txt
+screenshots
+```
+
+Recommended image names:
+
+```txt
+hero.png
+practice-areas.png
+results.png
+about.png
+partners.png
+contact.png
+mobile.png
+```
+
+After adding screenshots, you can include them like this:
+
+```md
+![Hero Section](screenshots/hero.png)
+![Practice Areas](screenshots/practice-areas.png)
+![Contact Section](screenshots/contact.png)
+```
+
+---
+
+## 🚀 Live Demo
+
+Add your deployed project link here:
+
+```txt
+https://your-project-link.vercel.app
+```
+
+---
+
+## 📂 Repository
+
+Add your repository link here:
+
+```txt
+https://github.com/your-username/your-repository-name
+```
+
+---
+
+## 🧪 How to Run Locally
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/Guuh-dev/vittorio-associados.git
+git clone https://github.com/your-username/your-repository-name.git
 ```
 
 Enter the project folder:
 
 ```bash
-cd vittorio-associados
+cd your-repository-name
 ```
 
 Install dependencies:
@@ -376,7 +409,7 @@ Run the development server:
 npm run dev
 ```
 
-Open the project locally:
+Open locally:
 
 ```txt
 http://localhost:5173
@@ -384,7 +417,7 @@ http://localhost:5173
 
 ---
 
-## Build
+## 📦 Build
 
 Create a production build:
 
@@ -392,15 +425,9 @@ Create a production build:
 npm run build
 ```
 
-Preview the production build:
-
-```bash
-npm run preview
-```
-
 ---
 
-## Deployment
+## 🌐 Deployment
 
 Recommended deployment platform:
 
@@ -408,88 +435,43 @@ Recommended deployment platform:
 Vercel
 ```
 
-After connecting the GitHub repository to Vercel, the project can be deployed automatically on every push to the main branch.
+The project can also be deployed on:
+
+- Netlify
+- Lovable
+- GitHub Pages, depending on the build setup
 
 ---
 
-## Screenshots
+## 🧠 Design Intent
 
-Add project screenshots inside a folder called:
+This project was created to communicate premium legal positioning through design.
 
-```txt
-screenshots/
-```
+The intention was not to make the interface loud, playful or overly animated.
 
-Recommended file names:
+Instead, the experience was designed to feel:
 
-```txt
-screenshots/hero.png
-screenshots/practice-areas.png
-screenshots/results.png
-screenshots/philosophy.png
-screenshots/contact.png
-screenshots/mobile.png
-```
-
-Then add them here:
-
-```md
-![Hero Section](screenshots/hero.png)
-
-![Practice Areas](screenshots/practice-areas.png)
-
-![Contact Section](screenshots/contact.png)
-```
-
----
-
-## Live Demo
-
-Add the deployed project link here:
-
-```txt
-https://your-project-link.vercel.app/
-```
-
----
-
-## Repository
-
-Add the repository link here:
-
-```txt
-https://github.com/Guuh-dev/vittorio-associados
-```
-
----
-
-## Design Intent
-
-This project was created to feel:
-
+- Quiet
 - Expensive
+- Confident
 - Serious
-- Elegant
-- Corporate
+- Editorial
 - Trustworthy
-- Premium
-- Quietly confident
+- Institutionally strong
 
-The design avoids loud colors, playful motion and generic startup patterns.
-
-Instead, it uses dark luxury, serif typography, champagne accents and slow animations to create the feeling of a firm that does not need to shout because its authority is already clear.
+The result is a landing page that presents legal services with the same level of polish expected from a high-end corporate brand.
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 <div align="center">
 
-**Created by Gustavo Araújo**
+<h3>Created by Gustavo Araújo</h3>
 
-AI Developer • SaaS Builder • Landing Page Developer • Automation Enthusiast
-
-<br/>
+<p>
+AI Developer • SaaS Builder • Landing Page Developer
+</p>
 
 <a href="https://www.linkedin.com/in/gustavo-araujo-542019316">
   <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Ara%C3%BAjo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -509,6 +491,11 @@ AI Developer • SaaS Builder • Landing Page Developer • Automation Enthusia
 
 <div align="center">
 
-### Luxury is quiet. Authority does not need to shout.
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=23&pause=1300&color=C9A961&center=true&vCenter=true&width=900&lines=Luxury+is+quiet.;Authority+does+not+need+to+shout.;Design+should+feel+expensive+before+a+single+word+is+read." />
+
+<br />
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C9A961,45:1C1A17,100:0A0A0A" />
 
 </div>
