@@ -406,13 +406,13 @@ The desktop experience is intentionally the most cinematic and premium version, 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/Guuh-dev/LP-Vittorio-Associados/tree/main
 ```
 
 Enter the project folder:
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd LP-Vittorio-Associados
 ```
 
 Install dependencies:
@@ -463,8 +463,8 @@ GitHub Repository → Vercel Import → Production Deployment
 
 | Resource | Link |
 |---|---|
-| Live Demo | `ADD_YOUR_LIVE_DEMO_HERE` |
-| Repository | `ADD_YOUR_REPOSITORY_LINK_HERE` |
+| Live Demo | `https://lp-vittorio-associados.vercel.app` |
+| Repository | `https://github.com/Guuh-dev/LP-Vittorio-Associados/tree/main` |
 
 ---
 
